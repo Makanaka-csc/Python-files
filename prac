@@ -1,0 +1,12 @@
+def main():
+   n = int(input('Enter a number'))
+   sum = 0
+   for i in range(11,n+1):
+      if n % 2 != 0:
+         s += i
+            
+        
+    
+    
+    
+if __name__ == '__main__':main()
